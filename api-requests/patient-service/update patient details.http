@@ -1,0 +1,11 @@
+
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174001
+content-type: application/json
+
+{
+  "name" : "Syed",
+  "email" : "A@gmail.com",
+  "address" : "Rayachoti-Bengalure",
+  "dateOfBirth" : "2000-09-27",
+  "registeredDate" : "2024-11-28"
+}
