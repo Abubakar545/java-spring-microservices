@@ -4,8 +4,8 @@ Content-Type: application/json
 
 
 {
-  "name" : "Syed",
-  "email" : "S@gmail.com",
+  "name" : "Kafka3 Consumed",
+  "email" : "kafka3@gmail.com",
   "address" : "Rayachoti",
   "dateOfBirth" : "2000-09-27",
   "registeredDate" : "2024-11-28"
